@@ -2,6 +2,8 @@
 
 Grafana dashboard for the Prometheus metrics exposed by [hypercore-stats](https://github.com/holepunchto/hypercore-stats), [hyperswarm-stats](https://github.com/holepunchto/hyperswarm-stats) and [hyperdht-stats](https://github.com/holepunchto/hyperswarm-stats).
 
+Download at https://grafana.com/grafana/dashboards/22313-hypercore-hyperswarm/.
+
 Built on top of [Node.js Exporter Quickstart and Dashboard](https://grafana.com/grafana/dashboards/14058-node-js/) (for the Node.js metrics).
 
 ## Screenshots
